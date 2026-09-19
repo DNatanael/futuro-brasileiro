@@ -1,0 +1,705 @@
+[
+  {
+    "id": "lula",
+    "number": "13",
+    "name": "LULA",
+    "fullName": "Luiz Inácio Lula da Silva",
+    "party": "PT",
+    "vice": {
+      "name": "Geraldo Alckmin",
+      "party": "PSB",
+      "summary": "Médico e político de São Paulo, foi governador do estado por quatro mandatos e é o atual vice-presidente da República. Em 2026, integra novamente a chapa presidencial com Lula.",
+      "source": "https://tmc.com.br/eleicoes/candidato/geraldo-alckmin-3/"
+    },
+    "partyColor": "#e7193b",
+    "partyColor2": "#b50f2d",
+    "partyTextColor": "#ffffff",
+    "profileBackground": "",
+    "position": "Centro-esquerda",
+    "orientation": "Programa com foco em desenvolvimento social, redução de desigualdades e atuação do Estado na economia",
+    "activity": "Presidente em três mandatos; mandato atual iniciado em 2023",
+    "bio": "Candidato do PT à Presidência da República em 2026, com Geraldo Alckmin como vice. O programa registrado apresenta continuidade e aprofundamento de políticas públicas em áreas como desenvolvimento, saúde, educação, redução das desigualdades e transição ecológica.",
+    "proposals": [
+      {
+        "title": "Economia e desenvolvimento",
+        "summary": "Desenvolvimento econômico com atuação do Estado e controle fiscal.",
+        "details": "As diretrizes defendem crescimento econômico, continuidade de investimentos públicos e privados e uso do arcabouço fiscal, com revisão de benefícios tributários e maior tributação dos mais ricos.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/lula/"
+      },
+      {
+        "title": "Saúde pública",
+        "summary": "Fortalecimento do SUS e redução de filas.",
+        "details": "O programa propõe fortalecer o SUS e ampliar o Agora Tem Especialistas, com estratégias para reduzir filas e uma fila única digital organizada por risco clínico.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/lula/"
+      },
+      {
+        "title": "Educação",
+        "summary": "Continuidade e ampliação de políticas educacionais.",
+        "details": "O programa apresenta educação como um dos eixos de transformação do país, com continuidade de políticas e ampliação de oportunidades educacionais e de permanência estudantil.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/lula/"
+      },
+      {
+        "title": "Combate à fome e desigualdade",
+        "summary": "Políticas de segurança alimentar e redução das desigualdades.",
+        "details": "Entre as diretrizes está o combate à fome e a proposta de liderar uma Aliança Global contra a Fome, além de políticas de redução das desigualdades.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/lula/"
+      },
+      {
+        "title": "Meio ambiente e política externa",
+        "summary": "Transição ecológica e atuação multilateral.",
+        "details": "O plano destaca transição ecológica, soberania nacional, fortalecimento do BRICS e do Mercosul e participação brasileira na governança internacional de temas como clima e inteligência artificial.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/lula/"
+      }
+    ],
+    "photo": "candidates/lula.jfif",
+    "sources": [
+      "https://planodegoverno2026.com.br/candidatos/presidente/lula/",
+      "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"
+    ]
+  },
+  {
+    "id": "flavio-bolsonaro",
+    "number": "22",
+    "name": "FLÁVIO BOLSONARO",
+    "fullName": "Flávio Nantes Bolsonaro",
+    "party": "PL",
+    "vice": {
+      "name": "Alfredo Gaspar",
+      "party": "PL",
+      "summary": "Advogado, ex-promotor de Justiça e ex-secretário de Segurança Pública de Alagoas. É deputado federal por Alagoas e integra a chapa presidencial de 2026 como candidato a vice.",
+      "source": "https://www.camara.leg.br/deputados/220576/biografia"
+    },
+    "partyColor": "#138a4b",
+    "partyColor2": "#f1cf20",
+    "partyTextColor": "#ffffff",
+    "profileBackground": "",
+    "position": "Direita / conservador",
+    "orientation": "Programa descrito como liberal-conservador",
+    "activity": "Senador pelo Rio de Janeiro desde 2019; anteriormente deputado estadual do RJ",
+    "bio": "Candidato do PL à Presidência da República em 2026, com Alfredo Gaspar como vice. O plano de diretrizes 2027–2030 apresenta propostas de segurança pública, redução de gastos, digitalização de serviços, infraestrutura e abertura comercial.",
+    "proposals": [
+      {
+        "title": "Segurança pública",
+        "summary": "Combate ao crime organizado como prioridade.",
+        "details": "O plano coloca o combate ao crime organizado entre as prioridades e apresenta medidas de integração e fortalecimento das estruturas de segurança pública.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/"
+      },
+      {
+        "title": "Saúde digital",
+        "summary": "Prontuário eletrônico e uso de inteligência artificial.",
+        "details": "A proposta inclui um prontuário eletrônico único vinculado ao CPF, integrado entre redes pública e privada, além de uso de inteligência artificial para acelerar agendamentos.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/"
+      },
+      {
+        "title": "Economia e gastos públicos",
+        "summary": "Redução de gastos e de ministérios.",
+        "details": "O chamado Tesouraço propõe cortes de gastos e de ministérios, novas regras fiscais e medidas para reduzir a relação dívida/PIB.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/"
+      },
+      {
+        "title": "Trabalho",
+        "summary": "Redução do custo de contratação e mudanças nas relações trabalhistas.",
+        "details": "O plano propõe reduzir gradualmente o custo de contratar, com contratos de menor custo para jovens de 18 a 24 anos no primeiro emprego e desempregados com mais de 50 anos.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/"
+      },
+      {
+        "title": "Política externa",
+        "summary": "OCDE e reaproximação com parceiros internacionais.",
+        "details": "O programa propõe retomar a adesão do Brasil à OCDE e ampliar relações com Estados Unidos, Argentina, Israel, China e União Europeia.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/"
+      }
+    ],
+    "photo": "candidates/flavio.jpg",
+    "sources": [
+      "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/",
+      "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"
+    ]
+  },
+  {
+    "id": "ronaldo-caiado",
+    "number": "55",
+    "name": "RONALDO CAIADO",
+    "fullName": "Ronaldo Ramos Caiado",
+    "party": "PSD",
+    "vice": {
+      "name": "Gilberto Kassab",
+      "party": "PSD",
+      "summary": "Engenheiro e economista, com trajetória política como vereador, deputado estadual, deputado federal, vice-prefeito e prefeito de São Paulo. Em 2026, concorre à Vice-Presidência na chapa de Ronaldo Caiado.",
+      "source": "https://tmc.com.br/eleicoes/candidato/gilberto-kassab/"
+    },
+    "partyColor": "#f58220",
+    "partyColor2": "#e8a51b",
+    "partyTextColor": "#111111",
+    "profileBackground": "",
+    "position": "Centro-direita",
+    "orientation": "Plano denominado Governo Transformador, com ênfase em segurança, ajuste fiscal e gestão por metas",
+    "activity": "Médico, produtor rural, parlamentar e governador de Goiás",
+    "bio": "Candidato do PSD à Presidência da República em 2026, com Gilberto Kassab como vice. O plano apresenta 26 temas, propostas para 2027–2030 e indicadores de acompanhamento, usando a experiência administrativa em Goiás como referência.",
+    "proposals": [
+      {
+        "title": "Segurança pública",
+        "summary": "Comando federal e medidas contra facções e milícias.",
+        "details": "O plano propõe criar o Ministério da Segurança Pública, integrar estruturas de segurança e estabelecer medidas específicas contra facções e milícias.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/ronaldo-caiado/"
+      },
+      {
+        "title": "Educação",
+        "summary": "Gestão por avaliação e reformulação do ensino superior.",
+        "details": "Entre as propostas estão o fortalecimento de indicadores como Saeb e Ideb e mudanças na formação de áreas como engenharia, ciência, saúde, educação e tecnologia.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/ronaldo-caiado/"
+      },
+      {
+        "title": "Economia e ajuste fiscal",
+        "summary": "Ajuste pelo lado das despesas.",
+        "details": "O programa prevê crescimento das despesas obrigatórias abaixo do PIB nominal, revisão de subsídios e benefícios tributários sem resultado e controle de novas despesas correntes.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/ronaldo-caiado/"
+      },
+      {
+        "title": "Renda e programas sociais",
+        "summary": "Manutenção de transferências com transição para o emprego.",
+        "details": "O plano propõe preservar programas de transferência de renda e criar uma regra de transição para beneficiários que entram no mercado formal de trabalho.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/ronaldo-caiado/"
+      },
+      {
+        "title": "Gestão pública",
+        "summary": "Metas e acompanhamento público de resultados.",
+        "details": "O programa apresenta gestão por metas e indicadores e defende mudanças institucionais, incluindo o fim da reeleição no Executivo.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/ronaldo-caiado/"
+      }
+    ],
+    "photo": "",
+    "sources": [
+      "https://planodegoverno2026.com.br/candidatos/presidente/ronaldo-caiado/",
+      "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"
+    ]
+  },
+  {
+    "id": "rui-costa-pimenta",
+    "number": "29",
+    "name": "RUI COSTA PIMENTA",
+    "fullName": "Rui Costa Pimenta",
+    "party": "PCO",
+    "vice": {
+      "name": "Antônio Carlos",
+      "fullName": "Antônio Carlos Silva",
+      "party": "PCO",
+      "summary": "Professor da rede pública e dirigente sindical. Segundo o PCO, atua há décadas no movimento sindical e integra a chapa presidencial de Rui Costa Pimenta em 2026.",
+      "source": "https://pco.org.br/2026/07/16/pco-define-datas-para-lancamento-de-candidaturas/"
+    },
+    "partyColor": "#b5121b",
+    "partyColor2": "#7e0b12",
+    "partyTextColor": "#ffffff",
+    "profileBackground": "",
+    "position": "Esquerda / socialista",
+    "orientation": "Programa com orientação revolucionária e defesa de governo operário",
+    "activity": "Jornalista e redator; candidato à Presidência em 2006, 2010 e 2014",
+    "bio": "Candidato do PCO à Presidência da República em 2026. O programa apresenta 15 pontos e reivindicações sobre trabalho, saúde, segurança, moradia, reforma agrária, tributação e organização do Estado.",
+    "proposals": [
+      {
+        "title": "Trabalho e salários",
+        "summary": "Aumento salarial e redução da jornada.",
+        "details": "O programa propõe aumento emergencial de salários, jornada de 35 horas semanais, revogação das reformas trabalhista e da Previdência e restrições a demissões.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/rui-costa-pimenta/"
+      },
+      {
+        "title": "Saúde pública",
+        "summary": "Ampliação da saúde pública e gratuita.",
+        "details": "O plano defende mais recursos para a saúde pública, construção de hospitais e postos e ampliação da formação de profissionais em universidades públicas.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/rui-costa-pimenta/"
+      },
+      {
+        "title": "Segurança",
+        "summary": "Mudança na estrutura policial.",
+        "details": "O programa propõe dissolução da Polícia Militar e substituição do modelo atual por estruturas de autodefesa dos trabalhadores, conforme descrito no documento.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/rui-costa-pimenta/"
+      },
+      {
+        "title": "Moradia",
+        "summary": "Programa nacional de habitação popular.",
+        "details": "Entre as reivindicações estão proibição de despejos, medidas contra especulação imobiliária e construção de milhões de moradias populares.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/rui-costa-pimenta/"
+      },
+      {
+        "title": "Tributação e dívida pública",
+        "summary": "Mudança na estrutura tributária e financeira.",
+        "details": "O programa propõe tributação concentrada sobre grandes fortunas e ganhos de capital, suspensão ou cancelamento de dívidas segundo os termos do documento e estatização do sistema financeiro.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/rui-costa-pimenta/"
+      }
+    ],
+    "photo": "",
+    "sources": [
+      "https://planodegoverno2026.com.br/candidatos/presidente/rui-costa-pimenta/",
+      "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"
+    ]
+  },
+  {
+    "id": "samara-martins",
+    "number": "80",
+    "name": "SAMARA MARTINS",
+    "fullName": "Samara Martins da Silva Feitosa",
+    "party": "UP",
+    "vice": {
+      "name": "Raquel Brício",
+      "fullName": "Raquel Nonato de Brício",
+      "party": "UP",
+      "summary": "Guarda portuária e sindicalista do Pará. Participa da chapa de Samara Martins como candidata a vice-presidente nas eleições de 2026.",
+      "source": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/samara-280002538811.shtml"
+    },
+    "partyColor": "#b7192e",
+    "partyColor2": "#7e1020",
+    "partyTextColor": "#ffffff",
+    "profileBackground": "",
+    "position": "Esquerda / socialista",
+    "orientation": "Programa declara como objetivo a construção de um país socialista",
+    "activity": "Odontóloga; candidata a vice-presidente em 2022 e a vereadora de Natal em 2020",
+    "bio": "Candidata da Unidade Popular à Presidência da República em 2026. O programa apresenta propostas sobre emprego, saúde pública, reforma agrária, política externa, meio ambiente e mudanças no papel do Estado.",
+    "proposals": [
+      {
+        "title": "Saúde pública",
+        "summary": "SUS estatal e gratuito.",
+        "details": "O plano defende saúde pública gratuita, SUS 100% estatal e o fim da gestão por organizações sociais, fundações privadas e cooperativas empresariais.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/samara/"
+      },
+      {
+        "title": "Papel do Estado",
+        "summary": "Nacionalizações e reestatizações.",
+        "details": "O programa propõe nacionalizar bancos, reestatizar empresas privatizadas e estatizar transporte público e planos de saúde.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/samara/"
+      },
+      {
+        "title": "Reforma agrária",
+        "summary": "Mudanças na estrutura fundiária e produção de alimentos.",
+        "details": "Entre as propostas estão reforma agrária popular, fim do latifúndio, controle estatal de preços de alimentos e demarcações indígenas e quilombolas.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/samara/"
+      },
+      {
+        "title": "Meio ambiente",
+        "summary": "Proteção ambiental e redução de agrotóxicos.",
+        "details": "O plano defende proteção da Amazônia e de reservas naturais, controle e redução do uso de agrotóxicos e mudanças na exploração de minérios.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/samara/"
+      },
+      {
+        "title": "Política externa",
+        "summary": "Soberania e revisão de relações internacionais.",
+        "details": "O programa propõe encerrar o que denomina submissão a potências estrangeiras e defende maior controle nacional sobre recursos estratégicos.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/samara/"
+      }
+    ],
+    "photo": "candidates/samara.webp",
+    "sources": [
+      "https://planodegoverno2026.com.br/candidatos/presidente/samara/",
+      "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"
+    ]
+  },
+  {
+    "id": "romeu-zema",
+    "number": "30",
+    "name": "ROMEU ZEMA",
+    "fullName": "Romeu Zema Neto",
+    "party": "NOVO",
+    "vice": {
+      "name": "Eduardo Girão",
+      "party": "NOVO",
+      "summary": "Empresário e político cearense, foi presidente do Fortaleza Esporte Clube e exerce mandato de senador pelo Ceará desde 2019. Em 2026, integra a chapa presidencial de Romeu Zema.",
+      "source": "https://www.eduardogirao.com.br/biografia"
+    },
+    "partyColor": "#f36b21",
+    "partyColor2": "#e74a17",
+    "partyTextColor": "#ffffff",
+    "profileBackground": "",
+    "position": "Direita / liberal",
+    "orientation": "Programa com foco em redução de gastos, privatizações e abertura econômica",
+    "activity": "Empresário e governador de Minas Gerais",
+    "bio": "Candidato do Novo à Presidência da República em 2026, com Eduardo Girão como vice. O plano apresenta propostas sobre economia, segurança, gestão pública, infraestrutura e relações comerciais.",
+    "proposals": [
+      {
+        "title": "Economia e gastos",
+        "summary": "Redução de gastos e revisão de ativos públicos.",
+        "details": "O plano prevê corte de gastos e privilégios, privatizações, venda de ativos públicos e crescimento baseado em maior investimento privado.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/zema/"
+      },
+      {
+        "title": "Segurança pública",
+        "summary": "Combate coordenado ao crime organizado.",
+        "details": "Entre as propostas estão ações coordenadas com países vizinhos e Estados Unidos contra organizações criminosas transnacionais e mudanças na estrutura de combate ao crime.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/zema/"
+      },
+      {
+        "title": "Comércio exterior",
+        "summary": "Mudanças em acordos e integração internacional.",
+        "details": "O plano propõe transformar o Mercosul em zona de livre comércio e ampliar a liberdade para acordos bilaterais.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/zema/"
+      },
+      {
+        "title": "OCDE e relações internacionais",
+        "summary": "Aproximação com organismos econômicos internacionais.",
+        "details": "O programa apresenta a entrada na OCDE como objetivo e propõe mudanças na política comercial e diplomática.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/zema/"
+      },
+      {
+        "title": "Turismo e vistos",
+        "summary": "Facilitação da entrada de turistas.",
+        "details": "O plano propõe isenção de visto para turistas de países considerados seguros, conforme os critérios apresentados no documento.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/zema/"
+      }
+    ],
+    "photo": "candidates/romeuzema.webp",
+    "sources": [
+      "https://planodegoverno2026.com.br/candidatos/presidente/zema/",
+      "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"
+    ]
+  },
+  {
+    "id": "hertz-dias",
+    "number": "16",
+    "name": "HERTZ DIAS",
+    "fullName": "Hertz da Conceição Dias",
+    "party": "PSTU",
+    "vice": {
+      "name": "Vanessa Portugal",
+      "fullName": "Vanessa Portugal Barbosa",
+      "party": "PSTU",
+      "summary": "Professora de ensino fundamental de Minas Gerais, com histórico de candidaturas pelo PSTU em eleições municipais e estaduais. Em 2026, é candidata a vice-presidente na chapa de Hertz Dias.",
+      "source": "https://tmc.com.br/eleicoes/candidato/vanessa-portugal/"
+    },
+    "partyColor": "#e31937",
+    "partyColor2": "#9e1026",
+    "partyTextColor": "#ffffff",
+    "profileBackground": "",
+    "position": "Esquerda / socialista",
+    "orientation": "Programa declara defesa de soberania e socialismo e ruptura com o capitalismo",
+    "activity": "Professor de ensino fundamental; já disputou governo do Maranhão, prefeitura de São Luís e vice-presidência",
+    "bio": "Candidato do PSTU à Presidência da República em 2026. O programa propõe mudanças estruturais na economia e nos serviços públicos, com estatização de setores estratégicos e medidas voltadas ao trabalho e à soberania.",
+    "proposals": [
+      {
+        "title": "Saúde pública",
+        "summary": "SUS 100% estatal.",
+        "details": "O programa defende SUS público, universal e 100% estatal, com fim da gestão privada e ampliação de atenção básica, hospitais e contratação por concurso.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/hertz-dias/"
+      },
+      {
+        "title": "Educação",
+        "summary": "Mais vagas públicas e mudanças curriculares.",
+        "details": "O plano defende mais vagas públicas em tempo integral, valorização dos profissionais da educação e revogação da BNCC e do Novo Ensino Médio.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/hertz-dias/"
+      },
+      {
+        "title": "Trabalho e salários",
+        "summary": "Mudanças na jornada e na legislação trabalhista.",
+        "details": "O programa apresenta aumento emergencial de salários, redução da jornada e revogação das reformas trabalhista e da Previdência.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/hertz-dias/"
+      },
+      {
+        "title": "Economia e dívida",
+        "summary": "Estatizações e revisão do pagamento da dívida.",
+        "details": "Entre as medidas estão estatizações, taxação de grandes fortunas e suspensão do pagamento da dívida pública durante uma auditoria, conforme o plano.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/hertz-dias/"
+      },
+      {
+        "title": "Soberania e relações internacionais",
+        "summary": "Mudança na política externa e econômica.",
+        "details": "O plano defende maior soberania econômica, controle de capitais e mudanças nas relações internacionais, além de rejeitar o acordo Mercosul–União Europeia.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/hertz-dias/"
+      }
+    ],
+    "photo": "candidates/hertz.jpg",
+    "sources": [
+      "https://planodegoverno2026.com.br/candidatos/presidente/hertz-dias/",
+      "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"
+    ]
+  },
+  {
+    "id": "edmilson-costa",
+    "number": "21",
+    "name": "EDMILSON COSTA",
+    "fullName": "Edmilson Silva Costa",
+    "party": "PCB",
+    "vice": {
+      "name": "Cleusa Santos",
+      "party": "PCB",
+      "summary": "Professora titular aposentada da Escola de Serviço Social da UFRJ e doutora em Serviço Social pela PUC-SP. Sua trajetória acadêmica e política inclui estudos sobre questão social, trabalho e seguridade.",
+      "source": "https://pcb.org.br/portal2/34041"
+    },
+    "partyColor": "#c91524",
+    "partyColor2": "#8d0d18",
+    "partyTextColor": "#ffffff",
+    "profileBackground": "",
+    "position": "Esquerda / socialista",
+    "orientation": "Programa com propostas de transformação econômica, social e institucional",
+    "activity": "Candidato do PCB à Presidência da República em 2026",
+    "bio": "Candidato do PCB à Presidência da República em 2026, com Cleusa Santos como vice. O programa aborda trabalho, renda, segurança, meio ambiente, educação e mudanças na organização do Estado.",
+    "proposals": [
+      {
+        "title": "Trabalho e jornada",
+        "summary": "Redução da jornada e fim da escala 6x1.",
+        "details": "O programa propõe jornada de 30 horas semanais sem redução salarial, fim da escala 6x1 e revogação das reformas trabalhista e da Previdência.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/edmilson-costa/"
+      },
+      {
+        "title": "Segurança pública",
+        "summary": "Desmilitarização e mudança na política de drogas.",
+        "details": "O plano propõe desmilitarização das polícias, unificação com ciclo completo e mudança da política de drogas, incluindo descriminalização do uso e legalização da maconha no curto prazo.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/edmilson-costa/"
+      },
+      {
+        "title": "Renda e combate à fome",
+        "summary": "Aumento do salário mínimo e rede de alimentação popular.",
+        "details": "O programa propõe elevar gradualmente o salário mínimo ao piso calculado pelo Dieese e criar uma rede de restaurantes e mercados populares.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/edmilson-costa/"
+      },
+      {
+        "title": "Meio ambiente",
+        "summary": "Fiscalização ambiental e proteção de biomas.",
+        "details": "O plano propõe combater desmatamento e mineração ilegal, rever o Código Florestal, taxar emissões e reforçar órgãos de fiscalização ambiental.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/edmilson-costa/"
+      },
+      {
+        "title": "Educação e ciência",
+        "summary": "Ampliação do ensino público e pesquisa.",
+        "details": "O programa defende fim das escolas cívico-militares, ampliação de bolsas de mestrado e doutorado e aumento de recursos para ciência e tecnologia.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/edmilson-costa/"
+      }
+    ],
+    "photo": "candidates/edmilson.webp",
+    "sources": [
+      "https://planodegoverno2026.com.br/candidatos/presidente/edmilson-costa/",
+      "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"
+    ]
+  },
+  {
+    "id": "renan-santos",
+    "number": "14",
+    "name": "RENAN SANTOS",
+    "fullName": "Renan Antonio Ferreira dos Santos",
+    "party": "MISSÃO",
+    "vice": {
+      "name": "Coronel Medina",
+      "fullName": "Aroldo Medina",
+      "party": "MISSÃO",
+      "summary": "Militar da reserva e jornalista, serviu por décadas na Brigada Militar do Rio Grande do Sul e também atuou na Defesa Civil do estado. Em 2026, é candidato a vice-presidente na chapa de Renan Santos.",
+      "source": "https://tmc.com.br/eleicoes/candidato/coronel-medina/"
+    },
+    "partyColor": "#f0b400",
+    "partyColor2": "#c58d00",
+    "partyTextColor": "#111111",
+    "profileBackground": "",
+    "position": "Direita / liberal",
+    "orientation": "Programa de ruptura institucional e reforma do Estado, segundo o próprio documento",
+    "activity": "Empresário; primeira disputa eleitoral segundo o registro apresentado no perfil do plano",
+    "bio": "Candidato do Missão à Presidência da República em 2026. O chamado Livro Amarelo apresenta propostas de ajuste fiscal, combate ao crime, reforma administrativa, saúde digital, educação e exploração de recursos estratégicos.",
+    "proposals": [
+      {
+        "title": "Saúde digital",
+        "summary": "Fila do SUS por risco clínico e telemedicina.",
+        "details": "O programa propõe organizar filas do SUS pela gravidade clínica, além de telemedicina, diagnóstico com inteligência artificial e prontuário eletrônico nacional.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/"
+      },
+      {
+        "title": "Educação",
+        "summary": "Modelo educacional baseado em alfabetização fônica e disciplina escolar.",
+        "details": "O plano propõe adotar nacionalmente o método fônico e elementos do modelo educacional do Ceará, além de mudanças em cotas, disciplina e escolas cívico-militares.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/"
+      },
+      {
+        "title": "Ajuste fiscal e gestão",
+        "summary": "Reforma fiscal e reorganização administrativa.",
+        "details": "O programa estima uma necessidade de ajuste fiscal e propõe mudanças na regra fiscal, fiscalização do uso de recursos federais e reorganização de municípios e carreiras públicas.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/"
+      },
+      {
+        "title": "Segurança e crime organizado",
+        "summary": "Integração internacional no combate às facções.",
+        "details": "O plano propõe um pacto das Américas contra facções, maior vigilância de fronteiras e medidas de combate ao crime organizado.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/"
+      },
+      {
+        "title": "Recursos estratégicos",
+        "summary": "Terras raras, energia e transferência de tecnologia.",
+        "details": "O programa propõe negociar terras raras com Estados Unidos e Europa exigindo transferência de tecnologia e ampliar o domínio nacional sobre energia nuclear.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/"
+      }
+    ],
+    "photo": "candidates/renan.jfif",
+    "sources": [
+      "https://planodegoverno2026.com.br/candidatos/presidente/renan-santos/",
+      "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"
+    ]
+  },
+  {
+    "id": "wilson-grassi",
+    "number": "35",
+    "name": "WILSON GRASSI",
+    "fullName": "Wilson Grassi Junior",
+    "party": "DEMOCRATA",
+    "vice": {
+      "name": "Suêd Haidar",
+      "fullName": "Suêd Haidar Nogueira",
+      "party": "DEMOCRATA",
+      "summary": "Empresária e dirigente partidária, natural de São Luís (MA). É presidente do Democrata e candidata a vice-presidente na chapa de Wilson Grassi em 2026.",
+      "source": "https://www1.folha.uol.com.br/poder/eleicoes/candidatos/2026/br/presidente/veterinario-wilson-grassi-280002548139.shtml"
+    },
+    "partyColor": "#2057a6",
+    "partyColor2": "#123a75",
+    "partyTextColor": "#ffffff",
+    "profileBackground": "",
+    "position": "Centro",
+    "orientation": "Plano com foco em Imposto Único, gestão pública, saúde e proteção animal",
+    "activity": "Médico veterinário; disputou vereança em São Paulo em 2024 e eleições para deputado",
+    "bio": "Candidato do Democrata à Presidência da República em 2026, com Suêd Haidar como vice. O plano Brasil em Primeiro Lugar apresenta como eixo fiscal um Imposto Único Federal e também aborda saúde, proteção animal e gestão pública.",
+    "proposals": [
+      {
+        "title": "Imposto Único Federal",
+        "summary": "Substituição de nove tributos por um único imposto.",
+        "details": "O plano propõe substituir nove tributos por um Imposto Único Federal cobrado sobre movimentações bancárias, com alíquota a ser calibrada após estudo de impacto.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/wilson-grassi/"
+      },
+      {
+        "title": "Saúde Única",
+        "summary": "Integração entre saúde humana, animal e ambiental.",
+        "details": "O programa utiliza a abordagem de Saúde Única para integrar políticas relacionadas à saúde humana, animal e ambiental.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/wilson-grassi/"
+      },
+      {
+        "title": "Proteção animal",
+        "summary": "Políticas públicas relacionadas ao bem-estar animal.",
+        "details": "A proteção animal aparece como um eixo relevante do plano, em conexão com a formação profissional e a atuação do candidato como médico veterinário.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/wilson-grassi/"
+      },
+      {
+        "title": "Gestão pública",
+        "summary": "Metas, indicadores e instrumentos de execução.",
+        "details": "O documento apresenta propostas acompanhadas por instrumentos jurídicos, indicadores e prazos, segundo a estrutura descrita no próprio plano.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/wilson-grassi/"
+      },
+      {
+        "title": "Economia e arrecadação",
+        "summary": "Mudança na forma de arrecadar tributos.",
+        "details": "A proposta do Imposto Único é apresentada como uma mudança estrutural na arrecadação, com neutralidade de receita declarada no plano.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/wilson-grassi/"
+      }
+    ],
+    "photo": "",
+    "sources": [
+      "https://planodegoverno2026.com.br/candidatos/presidente/wilson-grassi/",
+      "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"
+    ]
+  },
+  {
+    "id": "clariana-barao",
+    "number": "27",
+    "name": "CLARIANA BARÃO",
+    "fullName": "Clariana Barão",
+    "party": "DC",
+    "vice": {
+      "name": "Fabiana Torquato",
+      "fullName": "Fabiana Cristina Tavares Torquato",
+      "party": "DC",
+      "summary": "Advogada, com ensino superior completo, natural de Pariquera-Açu (SP). Em 2026, concorre à Vice-Presidência na chapa de Clariana Barão pelo Democracia Cristã.",
+      "source": "https://tmc.com.br/eleicoes/candidato/fabiana-torquato/"
+    },
+    "partyColor": "#6a2c91",
+    "partyColor2": "#431d5d",
+    "partyTextColor": "#ffffff",
+    "profileBackground": "",
+    "position": "Centro-direita",
+    "orientation": "Plano estruturado em proteção de mulheres e crianças, economia, educação, segurança, saúde e gestão",
+    "activity": "Advogada e candidata do Democracia Cristã à Presidência da República",
+    "bio": "Candidata do Democracia Cristã à Presidência da República em 2026, com Fabiana Torquato como vice. Seu plano é organizado em seis capítulos, com eixo transversal voltado à proteção de mulheres e crianças.",
+    "proposals": [
+      {
+        "title": "Mulheres e crianças",
+        "summary": "Rede de proteção, primeira infância e autonomia econômica.",
+        "details": "O plano apresenta proteção de mulheres e crianças como eixo transversal, com rede nacional de proteção, prioridade à primeira infância e ações de autonomia econômica das mulheres.",
+        "source": "https://clarianabarao.com.br/propostas"
+      },
+      {
+        "title": "Economia",
+        "summary": "Prosperidade, trabalho e oportunidades.",
+        "details": "O capítulo de economia é apresentado como uma agenda para gerar trabalho e oportunidades, com medidas acompanhadas por indicadores e cronograma de implementação.",
+        "source": "https://clarianabarao.com.br/propostas"
+      },
+      {
+        "title": "Educação",
+        "summary": "Aprendizagem e preparação para o futuro.",
+        "details": "O plano dedica um capítulo à educação e prevê acompanhamento de resultados, pilotos, formação e expansão de iniciativas com evidência de resultado.",
+        "source": "https://clarianabarao.com.br/propostas"
+      },
+      {
+        "title": "Segurança",
+        "summary": "Proteção da vida e liberdade.",
+        "details": "O capítulo de segurança propõe uma abordagem descrita como segurança com inteligência e prevê medidas de integração e proteção, acompanhadas por indicadores.",
+        "source": "https://clarianabarao.com.br/propostas"
+      },
+      {
+        "title": "Saúde e Estado",
+        "summary": "Prevenção e gestão com metas.",
+        "details": "O plano apresenta saúde com foco em prevenção e um capítulo de Estado que funciona, com gestão por metas, transparência e avaliação de resultados.",
+        "source": "https://clarianabarao.com.br/propostas"
+      }
+    ],
+    "photo": "",
+    "sources": [
+      "https://clarianabarao.com.br/propostas",
+      "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"
+    ]
+  },
+  {
+    "id": "augusto-cury",
+    "number": "70",
+    "name": "AUGUSTO CURY",
+    "fullName": "Augusto Jorge Cury",
+    "party": "AVANTE",
+    "vice": {
+      "name": "Júlio Delgado",
+      "fullName": "Júlio César Delgado",
+      "party": "AVANTE",
+      "summary": "Advogado e ex-deputado federal por Minas Gerais, com diversos mandatos na Câmara dos Deputados entre 1999 e 2023. Em 2026, integra a chapa de Augusto Cury como candidato a vice.",
+      "source": "https://www.camara.leg.br/deputados/73586/biografia"
+    },
+    "partyColor": "#2f7fbc",
+    "partyColor2": "#1d527d",
+    "partyTextColor": "#ffffff",
+    "profileBackground": "",
+    "position": "Centro",
+    "orientation": "Programa declara combinar responsabilidade fiscal, empreendedorismo e agenda social",
+    "activity": "Escritor e crítico; primeira disputa eleitoral segundo o perfil do plano",
+    "bio": "Candidato do Avante à Presidência da República em 2026, com Júlio Delgado como vice. O plano apresenta propostas de segurança, empreendedorismo, reforma do sistema de governo, gestão pública e transição ambiental.",
+    "proposals": [
+      {
+        "title": "Segurança pública",
+        "summary": "Integração das polícias e inteligência.",
+        "details": "O programa propõe recriar o Ministério da Segurança Pública, integrar polícias em um sistema de inteligência e criar uma força municipal de prevenção e apoio.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/"
+      },
+      {
+        "title": "Empreendedorismo e renda",
+        "summary": "Ampliação de microempresas e transição do benefício para o trabalho.",
+        "details": "O plano propõe ampliar o empreendedorismo e manter o Bolsa Família com mecanismos de transição para pessoas que entram no trabalho formal ou abrem microempresas.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/"
+      },
+      {
+        "title": "Reforma tributária",
+        "summary": "Simplificação e redução da carga ao fim da transição.",
+        "details": "O programa defende concluir a reforma tributária com compromisso de carga menor ao final da transição e transparência sobre o custo dos regimes especiais.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/"
+      },
+      {
+        "title": "Sistema de governo",
+        "summary": "Proposta de semipresidencialismo.",
+        "details": "O plano propõe semipresidencialismo, com primeiro-ministro apoiado pela maioria do Congresso conduzindo a administração e o presidente como autoridade de Estado.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/"
+      },
+      {
+        "title": "Meio ambiente",
+        "summary": "Bioeconomia, energia limpa e tecnologia.",
+        "details": "O programa propõe ações contra incêndios florestais, bioeconomia na Amazônia, microcrédito verde, mercado de carbono e expansão de energia limpa.",
+        "source": "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/"
+      }
+    ],
+    "photo": "candidates/augusto.jpg",
+    "sources": [
+      "https://planodegoverno2026.com.br/candidatos/presidente/augusto-cury/",
+      "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"
+    ]
+  }
+]
