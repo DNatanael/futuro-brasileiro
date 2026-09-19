@@ -54,7 +54,7 @@ const PARTY_THEMES = {
 
 const STORAGE_KEY = "futuro-brasileiro-candidates-v6";
 const ADMIN_SESSION_KEY = "fb-admin-v2";
-const ADMIN_PASSWORD = "admin123"; // DEMONSTRAÇÃO ESCOLAR — não é segurança real.
+const ADMIN_PASSWORD = "escola123"; // DEMONSTRAÇÃO ESCOLAR — não é segurança real.
 
 /*
   Os candidatos agora ficam em /public/candidatos.json.
@@ -1075,7 +1075,7 @@ function AdminLogin({ onLogin }) {
           {error && <div className="form-error">{error}</div>}
           <button className="primary-btn" type="submit"><LogIn size={17} /> Entrar</button>
         </form>
-        <div className="demo-password"><Info size={14} /> Projeto escolar: senha atual <strong>admin123</strong>.</div>
+        <div className="demo-password"><Info size={14} /> Projeto escolar v2.0.2 desenolvimento @natanaelfre<strong></strong>.</div>
         <Link to="/" className="back-link"><ChevronLeft size={16} /> Voltar ao site</Link>
       </div>
     </div>
