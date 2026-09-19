@@ -1075,7 +1075,7 @@ function AdminLogin({ onLogin }) {
           {error && <div className="form-error">{error}</div>}
           <button className="primary-btn" type="submit"><LogIn size={17} /> Entrar</button>
         </form>
-        <div className="demo-password"><Info size={14} /> Projeto escolar v2.0.2 desenolvimento @natanaelfre<strong></strong>.</div>
+        <div className="demo-password"><Info size={14} /> Projeto escolar v2.0.2.  desenolvimento @natan_elfre<strong></strong></div>
         <Link to="/" className="back-link"><ChevronLeft size={16} /> Voltar ao site</Link>
       </div>
     </div>
