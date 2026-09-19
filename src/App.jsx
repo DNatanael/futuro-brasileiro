@@ -1,5 +1,5 @@
-import React, { useEffect, useMemo, useState } from "react";
-import { Link, Route, Routes, useParams } from "react-router-dom";
+import React, { useEffect, useLayoutEffect, useMemo, useState } from "react";
+import { Link, Route, Routes, useLocation, useParams } from "react-router-dom";
 import {
   AlertTriangle, ArrowRight, BookOpen, Check, ChevronDown, ChevronLeft, Edit3,
   Eye, Home as HomeIcon, Info, LogIn, LogOut, Menu, Plus,
@@ -253,6 +253,28 @@ function backgroundStyle(value, fallback = "none") {
   return image ? { "--custom-background": `url("${image}")` } : {};
 }
 
+function ScrollToTop() {
+  const { pathname } = useLocation();
+
+  useLayoutEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
+  useEffect(() => {
+    if ("scrollRestoration" in window.history) {
+      window.history.scrollRestoration = "manual";
+    }
+
+    return () => {
+      if ("scrollRestoration" in window.history) {
+        window.history.scrollRestoration = "auto";
+      }
+    };
+  }, []);
+
+  return null;
+}
+
 function App() {
   const [candidates, setCandidates] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
@@ -342,7 +364,10 @@ function App() {
   }
 
   return (
-    <Routes>
+    <>
+      <ScrollToTop />
+
+      <Routes>
       <Route path="/" element={<Home candidates={candidates} />} />
       <Route path="/candidatos" element={<Candidates candidates={candidates} />} />
       <Route path="/candidatos/:id" element={<CandidateDetail candidates={candidates} />} />
@@ -361,7 +386,8 @@ function App() {
         }
       />
       <Route path="*" element={<NotFound />} />
-    </Routes>
+      </Routes>
+    </>
   );
 }
 
